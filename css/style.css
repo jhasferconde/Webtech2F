@@ -36,7 +36,7 @@ ul{
 
 /* Header **/
 header{
-  background:#35424a;
+  background:#000000;
   color:#ffffff;
   padding-top:30px;
   min-height:70px;
@@ -70,7 +70,7 @@ header nav{
 }
 
 header .highlight, header .current a{
-  color:#e8491d;
+  color:#FFFF00;
   font-weight:bold;
 }
 
@@ -166,7 +166,7 @@ footer{
   padding:20px;
   margin-top:20px;
   color:#ffffff;
-  background:#35424a;
+  background:#000000;
   text-align: center;
 }
 
